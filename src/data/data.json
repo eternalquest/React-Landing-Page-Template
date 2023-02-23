@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "School Management system",
+    "paragraph": "we have made a one stop solution to all the needs of students and teachers alike by School Management System"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "A school management system is a software application designed to manage and streamline the administrative and academic operations of a school or educational institution. The primary goal of a school management system is to provide a centralized platform for various stakeholders, such as students, teachers, administrators, parents, and other staff members, to manage and access relevant data in a secure and efficient manner.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Student dashboard",
+      "Teacher dashboard",
+      "Parents dashboard",
+      "Admin dashboard"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "students can submit assignments ,check their schedule , take classes.",
+      "Teachers can monitor student activities and easily grade them.",
+      "Parents can access student details and check fees and other services.",
+      "Admin can handle multiple services and activites from one place."
     ]
   },
   "Gallery": [
